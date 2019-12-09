@@ -1,1 +1,43 @@
 
+[
+    {
+        "id": 1,
+        "code": "PN",
+        "description": "PRE NATAL",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null,
+        "speciality_photo": null,
+        "default": false
+    },
+    {
+        "id": 2,
+        "code": "R",
+        "description": "RELAXATION",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null,
+        "speciality_photo": null,
+        "default": false
+    },
+    {
+        "id": 3,
+        "code": "T",
+        "description": "THERAPEUTIC",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null,
+        "speciality_photo": null,
+        "default": true
+    },
+    {
+        "id": 4,
+        "code": "DT",
+        "description": "DEEP TISSUE",
+        "deleted_at": null,
+        "created_at": null,
+        "updated_at": null,
+        "speciality_photo": null,
+        "default": false
+    }
+]
